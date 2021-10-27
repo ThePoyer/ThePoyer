@@ -1,7 +1,7 @@
 Yo, I'm <i>Renan Poyer</i> studant of Software Engineering and an adventurer in this developer's world! <br>
 You can call me <i>Veta</i> if you want.
 
-"Eai, Eu sou <i>Renan Poyer</i> estudante de Engenharia de Software e um aventureiro neste mundo de desenvolvedores!
+"Eai, eu sou <i>Renan Poyer</i> estudante de Engenharia de Software e um aventureiro neste mundo de desenvolvedores!
 Você pode me chamar de <i>Veta</i> se quiser."
 
 <b>Things that i'm actually studying:<br>
