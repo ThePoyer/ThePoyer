@@ -4,7 +4,7 @@ You can call me <i>Veta</i> if you want. 👋
 <b>Things that i'm actually studying:</b>
 
 ➤ JavaScript <br>
-➤ Reat.js <br>
+➤ React.js <br>
 ➤ Nest.js (New) <br>
 ➤ Angular (New) <br>
 
