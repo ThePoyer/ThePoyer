@@ -9,8 +9,9 @@ Você pode me chamar de <i>Veta</i> se quiser."
 <br>
 <li>JavaScript</li>
 <li>React.js</li>
-<li>Nest.js (New/Novo)</li>
+<li>Node.js (New/Novo)</li>
 <li>Angular (New/Novo)</li>
+<li>MongoDB (New/Novo)</li>
 <br>
 <em>Hope i can make some nice and challenging projects to eventually become a great developer.</em> :wave: <br>
 "<em>Espero que eu possa fazer projetos otimos e desafiadores para eventualmente me tornar um grande desenvolvedor.</em> :wave:" <br><br>
