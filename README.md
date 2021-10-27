@@ -15,4 +15,4 @@ Você pode me chamar de <i>Veta</i> se quiser."
 <em>Hope i can make some nice and challenging projects and eventually become a great developer.</em> :wave: <br>
 <em>Espero que eu possa fazer projetos otimos e desafiadores e eventualmente me tornar um grande desenvolvedor.</em> :wave: <br><br>
 
-<b>Disclaimer:</b> This will be translated cause a friend of mine who likes to help me don't understand english well.
+<b>Disclaimer:</b> This and other comments in projects/codes will be translated cause a friend of mine who likes to help me don't understand english well.
