@@ -1,19 +1,36 @@
-Yo, I'm <i>Renan Poyer</i> studant of Software Engineering and an adventurer in this developer's world! <br>
-You can call me <i>Veta</i> if you want.
+# Renan Poyer | Veta
 
-"Eai, eu sou <i>Renan Poyer</i> estudante de Engenharia de Software e um aventureiro neste mundo de desenvolvedores! <br>
-Você pode me chamar de <i>Veta</i> se quiser."
+Hi! I'm Renan Poyer, a Software Engineering student and an enthusiastic adventurer in the world of development.  
+You can also call me Veta!
 
-<b>Things that i'm actually studying:<br>
-"Coisas que eu estudo atualmente:"</b>
-<br>
-<li>JavaScript</li>
-<li>React.js</li>
-<li>Node.js (New/Novo)</li>
-<li>Angular (New/Novo)</li>
-<li>MongoDB (New/Novo)</li>
-<br>
-<em>Hope i can do some nice and challenging projects to eventually become a great developer.</em> :wave: <br>
-"<em>Espero que eu possa fazer projetos otimos e desafiadores para eventualmente me tornar um grande desenvolvedor.</em> :wave:" <br><br>
+Olá! Eu sou o Renan Poyer, estudante de Engenharia de Software e um entusiasta aventureiro no mundo do desenvolvimento.  
+Você também pode me chamar de Veta!
 
-<b>Disclaimer:</b> This and other comments will be translated, because a friend of mine who likes to help me doesn't understand english.
+---
+
+## 🚀 Currently Studying | Atualmente estudando:
+
+- JavaScript
+- React.js
+- Node.js
+- Angular
+- MongoDB
+
+---
+
+## 🎯 Goals | Objetivos
+
+I aim to work on interesting and challenging projects to continuously improve my skills and grow as a professional developer. 👨‍💻  
+Meu objetivo é trabalhar em projetos interessantes e desafiadores para melhorar continuamente minhas habilidades e crescer como desenvolvedor profissional.
+
+---
+
+## ℹ️ Notes | Observações
+
+Some comments and documentation here will be translated, as I have friends who help me and don't understand English.  
+Alguns comentários e documentações aqui serão traduzidos, pois tenho amigos que me ajudam e não entendem inglês.
+
+---
+
+Thanks for visiting my profile! 👋  
+Obrigado por visitar meu perfil! 👋
