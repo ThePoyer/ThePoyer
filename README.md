@@ -15,6 +15,7 @@ Você também pode me chamar de Veta!
 - Node.js
 - Angular
 - MongoDB
+- Lua/Osiris
 
 ---
 
